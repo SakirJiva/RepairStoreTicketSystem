@@ -1,5 +1,28 @@
 # Repair Store Ticket System
 
+#updated version of Repair Store Ticket System
+
+updated version of repair store ticket system (original can be found at https://github.com/israelmuca/Repair-Store-Ticket-System
+
+-dynamic drop down menus for device type, make and model
+
+-added password field
+
+-print format for dymo lables
+
+-print option from view ticket to reprint a ticket
+
+-reopen closed ticket
+
+-default view only open tickets
+
+-view all tickets for individual location or all location at once
+
+-sort tickets by location
+
+-twilio text message api to send text to customers
+
+
 **A ticketing system for Repair Shops.**
 
 If you've worked at a repair shop you quickly realize mantaining proper communication between your team regarding a customer's equipment or communication with them can be a real problem.
